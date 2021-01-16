@@ -1,14 +1,8 @@
-Интернет-магазин по заказу пиццы - **React Pizza**
+Интернет-магазин с доставкой пиццы Pizza House (React JS) 🍕
 
-- [Плейлист с полным курсом на YouTube](https://www.youtube.com/watch?v=bziVFvq8cLQ&list=PL0FGkDGJQjJFMRmP7wZ771m1Nx-m2_qXq)
-- [Как задеплоить React Pizza на бесплатный хостинг](https://www.youtube.com/watch?v=-pJN9faoa8E&t=1951s)
+СТЕК:
 
-**Stack:**
-
-- ReactJS + хуки
-- React Router
+- ReactJS, React Hooks
 - Redux
-- Redux thunk
-- json-server
 - Axios
 - classnames
